@@ -1,1 +1,2 @@
-# This is the test source file
+// This is the test source file
+#include "header.h"
